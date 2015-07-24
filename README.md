@@ -19,7 +19,9 @@ Windows - In the root directory, execute IpaSpeak.exe
 
 - Click "Speak!" to generate the audio pronunciation of the IPA string.
 
-Linux - Go to "dictsource" located within the root directory "IpaSpeak"
+Linux - Currently there is no static build for the linux version of the application, you will need to install Qt libraries (application was built on Qt5.5) to run the application
+
+- Go to "dictsource" located within the root directory "IpaSpeak"
 
 - Execute the IpaSpeak binary
 
